@@ -6,7 +6,7 @@ public class TestConenction {
 
     @Test
     public void test1(){
-
+        System.out.println("Testing connection");
     }
 
 }
